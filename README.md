@@ -6,3 +6,5 @@ in percentages on how well your resume alligns with the
 given JD.
 
 Learned about temperature, roles and token usage. (never knew just a small 'Hi' took SO many tokens bruh)
+
+Learned about adding guardrails and prompt engineering so that our model cannot be used for task completely unrelated to the company/support that the model has been designed for.
