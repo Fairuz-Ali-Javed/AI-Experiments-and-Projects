@@ -8,3 +8,14 @@ given JD.
 Learned about temperature, roles and token usage. (never knew just a small 'Hi' took SO many tokens bruh)
 
 Learned about adding guardrails and prompt engineering so that our model cannot be used for task completely unrelated to the company/support that the model has been designed for.
+
+----
+Prompt chaining and ReAct Loop are two COMPLETELY different things.
+Even tho they have the same powers.
+One is controlled by the dev while the other by the llm itself.
+
+
+Created a small feature for matching and scoring the resume with the particular jd.
+thats so cool.
+----
+
