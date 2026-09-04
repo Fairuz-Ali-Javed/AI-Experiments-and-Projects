@@ -18,4 +18,7 @@ One is controlled by the dev while the other by the llm itself.
 Created a small feature for matching and scoring the resume with the particular jd.
 thats so cool.
 ----
-
+Ohhh so streaming is why every chatbot that i talk to answers
+line by line and not the whole thing at once.
+wow!
+----
